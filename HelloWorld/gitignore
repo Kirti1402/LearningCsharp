@@ -1,0 +1,24 @@
+# Node.js stuff
+node_modules/
+npm-debug.log
+dist/
+build/
+out/
+
+# VS Code stuff
+.vscode/
+.vscode-test/
+
+# System and temp folders
+ssh/
+.vs/
+vscodenugget/
+qqualkko/
+*.log
+
+
+# Quokka stuff
+quokka/
+
+# Template engine output
+templateengine/
